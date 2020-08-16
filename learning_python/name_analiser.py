@@ -1,0 +1,7 @@
+name = str(input('\nType your name: ')).strip()
+print(f'\nYour uppercased name is "{name.upper()}"')
+print(f'Your lowercased name is "{name.lower()}"')
+sep = name.split()
+tog = ''.join(sep)
+print(f'Your complete name has {len(tog)} letters')
+print(f'Your first name is "{sep[0]}" and it has {len(sep[0])} letters\n')
