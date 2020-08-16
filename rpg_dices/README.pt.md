@@ -1,6 +1,6 @@
 ## 🎲 Dados de RPG 🎲
 
-  [Read in English | Leia em Inglês]()
+  [Read in English | Leia em Inglês](https://github.com/molusca/Python/blob/master/rpg_dices/README.md)
 
 #### Sobre:
  - O projeto é um programa em Python que gera um dado com a quantidade de faces que o usuário escolher

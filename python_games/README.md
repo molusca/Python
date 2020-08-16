@@ -1,6 +1,6 @@
 ## 🎮 Python Games 🎮
 
-[Read in Portuguese | Leia em Portugês]()
+[Read in Portuguese | Leia em Portugês](https://github.com/molusca/Python/blob/master/python_games/README.pt.md)
 
 Minigames created during basic Python learning.
 

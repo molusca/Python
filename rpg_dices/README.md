@@ -1,6 +1,6 @@
 ## 🎲 RPG Dices 🎲
 
-  [Read in Portuguese | Leia em Português]()
+  [Read in Portuguese | Leia em Português](https://github.com/molusca/Python/blob/master/rpg_dices/README.pt.md)
 
 #### About:
  - This project is a Python program that generates a dice with how many faces the user wants it to have

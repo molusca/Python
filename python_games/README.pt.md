@@ -1,6 +1,6 @@
 ## 🎮 Jogos em Python 🎮
 
-[Read in English | Leia em Inglês]()
+[Read in English | Leia em Inglês](https://github.com/molusca/Python/blob/master/python_games/README.md)
 
 Minigames criados durante o aprendizado básico em Python.
 
